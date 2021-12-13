@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BeggarRobot</string>
+    <string name="message_1">Brak w bazie danych parametru: </string>
+    <string name="message_2">Nie można uruchomić playera bo nie udało się ustalić pierwszej sekwencji. </string>
+    <string name="message_3">Nie można kontynuować bo brak ścieżki bazowej. </string>
+    <string name="message_4">Nie można kontynuować bo brak bazy danych. </string>
+    <string name="context_menu_1">Start</string>
+    <string name="context_menu_2">Stop</string>
+    <string name="dialog_message">Co zrobić z robotem?</string>
+    <string name="dialog_start">Rozpocznij pokaz</string>
+    <string name="dialog_stop">Zatrzymaj pokaz</string>
+</resources>
